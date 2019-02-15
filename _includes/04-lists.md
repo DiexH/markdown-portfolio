@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. basketball
+2. gym
+3. swimming
